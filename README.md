@@ -29,3 +29,5 @@ The project is available to be used freely for personal and educational purposes
 1. C++
   
 ## Demo of the project can be found over the sim on Mobile Phone.
+
+## How To Contribute
